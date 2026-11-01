@@ -1,0 +1,20 @@
+# Secrets - never commit real Vapi credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local call audit logs (may contain PHI in a real deployment)
+logs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Original upload drop (copied into data/ and docs/)
+uploads/
