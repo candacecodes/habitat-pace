@@ -1,7 +1,7 @@
 # Habitat Health - Referral Triage & Voice AI Outreach Copilot
 
-A small, working prototype for the first and leakiest step of PACE enrollment: getting
-a **consented referral to a completed Welcome Call** quickly and consistently.
+A small, working prototype for getting
+a **consented referral to a completed Welcome Call** quickly and consistently for PACE enrollment.
 
 It does two things:
 
